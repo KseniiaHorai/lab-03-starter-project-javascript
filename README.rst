@@ -1,7 +1,7 @@
 References
 ----------
 
-*   `Project report <https://drive.google.com/file/d/16lmNKLdppj_P7olM5fRiKdbfoA7NTxMk/view?usp=sharing>`_
+*   `Project report <https://drive.google.com/file/d/15w9f9gDEVgI6ju44q3x1H70BvsEKAZaf/view>`_
 
 *   `Python project repository <https://github.com/KseniiaHorai/lab-03-starter-project-python>`_
 
